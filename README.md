@@ -1,5 +1,5 @@
 # DYSCO-MOM
-Dynamimcally Scoping Multivariable Optimisation in Matlab
+Dynamically Scoping Multivariable Optimisation in Matlab
 
 The name of this repo was not planned, and may very well be my greatest achievement.
 
