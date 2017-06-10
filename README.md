@@ -14,7 +14,7 @@ Then, given a set of initial ranges for the soon-to-be-optimized variables, the 
 3. Repeat this process for A) as many times as defined by the Recursion layer count, or B) when the optimized solution converges within user-defined tolerance.
 
 ## Included Example
-Included is an example of a project that uses the DYSCO-MOM algorithm to optimize the initial launch velocity and yaw rate of a soccer ball given a wind speed and target. There's a few physical assumptions made in the model (such as that the magnus effect only affects the ball in the XY plane, and that surface friction does not slow the spin rate of the ball). 
+Included is an example of a project that uses the DYSCO-MOM algorithm to optimize the initial launch vector, speed, and yaw rate of a soccer ball given a wind speed and target. There's a few physical assumptions made in the model (such as that the magnus effect only affects the ball in the XY plane, and that surface friction does not slow the spin rate of the ball). 
 
 Our grade on this project was based on our trajectory's performance compared against the "optimal" trajectory. However, my trajectory turned out to be "more optimal," both in its speed and its accuracy, landing me a grade of over 100%. My trajectory is now the basis for project grades in all students taking ME123. DYSCO-MOM quite literally "threw the curve"! (I'm hilarious).
 
